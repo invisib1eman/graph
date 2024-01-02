@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iomanip": "cpp",
+			"algorithm": "cpp",
+			"iosfwd": "cpp",
+			"__node_handle": "cpp",
+			"iterator": "cpp"
+		}
+	}
+}
